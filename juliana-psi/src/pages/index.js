@@ -4,7 +4,7 @@ import Main from "@/components/Main";
 
 export default function Home() {
   return (
-    <div className="border border-red-50">
+    <div className="w-fit">
       <Header />
       <Main />
       <Footer />
