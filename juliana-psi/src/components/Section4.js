@@ -2,8 +2,8 @@ import React from 'react'
 
 const Section4 = () => {
     return (
-        <div id='section4' className='flex justify-center bg-white h-fit'>
-            <div className='flex items-center'>
+        <div id='section4' className='flex justify-center bg-white h-fit max-[940px]:flex-col items-center'>
+            <div className='flex items-center mt-10'>
                 <div>
                     <img src='/images/juliana.jpeg' alt='' width={"300px"} height={"300px"} />
                 </div>

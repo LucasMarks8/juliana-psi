@@ -13,7 +13,7 @@ const Section2 = () => {
                     <div className='flex justify-center'>
                         <img src='/icons/coracao.png' width={"25px"} height={"25px"} />
                     </div>
-                    <div className='text-white text-gray-700'>
+                    <div className='text-gray-700'>
                         Promove autoconhecimento
                     </div>
                 </div>
@@ -21,7 +21,7 @@ const Section2 = () => {
                     <div className='flex justify-center'>
                         <img src='/icons/coracao.png' width={"25px"} height={"25px"} />
                     </div>
-                    <div className='text-white text-gray-700'>
+                    <div className='text-gray-700'>
                         Melhora na autoestima
                     </div>
                 </div>
@@ -29,7 +29,7 @@ const Section2 = () => {
                     <div className='flex justify-center'>
                         <img src='/icons/coracao.png' width={"25px"} height={"25px"} />
                     </div>
-                    <div className='text-white text-gray-700'>
+                    <div className='text-gray-700'>
                         Relações mais saudáveis
                     </div>
                 </div>
@@ -37,7 +37,7 @@ const Section2 = () => {
                     <div className='flex justify-center'>
                         <img src='/icons/coracao.png' width={"25px"} height={"25px"} />
                     </div>
-                    <div className='text-white text-gray-700'>
+                    <div className='text-gray-700'>
                         Identificar habilidades
                     </div>
                 </div>
@@ -45,7 +45,7 @@ const Section2 = () => {
                     <div className='flex justify-center'>
                         <img src='/icons/coracao.png' width={"25px"} height={"25px"} />
                     </div>
-                    <div className='text-white text-gray-700'>
+                    <div className='text-gray-700'>
                         Desenvolvimento profissional
                     </div>
                 </div>
@@ -53,7 +53,7 @@ const Section2 = () => {
                     <div className='flex justify-center'>
                         <img src='/icons/coracao.png' width={"25px"} height={"25px"} />
                     </div>
-                    <div className='text-white text-gray-700'>
+                    <div className='text-gray-700'>
                         Melhora das emoções
                     </div>
                 </div>
@@ -61,7 +61,7 @@ const Section2 = () => {
                     <div className='flex justify-center'>
                         <img src='/icons/coracao.png' width={"25px"} height={"25px"} />
                     </div>
-                    <div className='text-white text-gray-700'>
+                    <div className='text-gray-700'>
                         Resolução de conflitos
                     </div>
                 </div>
@@ -69,7 +69,7 @@ const Section2 = () => {
                     <div className='flex justify-center'>
                         <img src='/icons/coracao.png' width={"25px"} height={"25px"} />
                     </div>
-                    <div className='text-white text-gray-700'>
+                    <div className='text-gray-700'>
                         Auxílio na aceitação do luto
                     </div>
                 </div>

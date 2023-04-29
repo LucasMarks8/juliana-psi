@@ -22,25 +22,25 @@ const Section1 = () => {
           Autoconhecimento / Autoconfiança / Autoaceitação
         </div>
         <hr className='w-64 h-1 my-8 border-0 rounded dark:bg-gray-700'></hr>
-        <div className='flex justify-around w-full gap-x-5 max-[940px]:mb-10'>
+        <div className='flex justify-around w-full gap-x-5 max-[940px]:mb-10 max-[940px]:flex-col items-center gap-y-2'>
           <Link href='#section2' className='flex justify-center items-center border-2 border-gray-700 w-32 rounded-full hover:bg-gradient-to-r from-emerald-100  via-fuchsia-300 to-pink-100 hover:text-black text-gray-700'>
             Saiba Mais
           </Link>
-          <div className='flex gap-x-2 items-center'>
-                    <div>
-                        <Link href={'https://wa.me/5511967422863'} target={'_blank'}>
-                            <img src='/icons/mensagem-de-telefone.png' alt='' width={"25px"} height={"25px"} />
-                        </Link>
-                    </div>
-                    <div>
-                        <Link href={'https://wa.me/5511967422863'} target={'_blank'} className='flex justify-center items-center border-2 border-gray-700 w-40 rounded-full hover:bg-gradient-to-r from-emerald-100  via-fuchsia-300 to-pink-100 hover:text-black text-gray-700'>
-                            Agendamento
-                        </Link>
-                    </div>
-                </div>
           <Link href="#section5" className='flex justify-center items-center border-2 border-gray-700 w-32 rounded-full hover:bg-gradient-to-r from-emerald-100  via-fuchsia-300 to-pink-100 hover:text-black text-gray-700'>
             Contatos
           </Link>
+          <div className='flex gap-x-2 items-center'>
+            <div>
+              <Link href={'https://wa.me/5511967422863'} target={'_blank'}>
+                <img src='/icons/mensagem-de-telefone.png' alt='' width={"25px"} height={"25px"} />
+              </Link>
+            </div>
+            <div>
+              <Link href={'https://wa.me/5511967422863'} target={'_blank'} className='flex justify-center items-center border-2 border-gray-700 w-40 rounded-full hover:bg-gradient-to-r from-emerald-100  via-fuchsia-300 to-pink-100 hover:text-black text-gray-700'>
+                Agendamento
+              </Link>
+            </div>
+          </div>
         </div>
       </div>
     </div>
