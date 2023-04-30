@@ -19,16 +19,16 @@ const Section3 = () => {
                             Terapia Individual
                         </div>
                     </div>
-                    <div className='flex flex-col h-72 text-center items-center justify-around w-72 p-1 bg-white rounded-lg hover:bg-gradient-to-r from-emerald-100  via-fuchsia-300 hover:border-brown-50 hover:border-4'>
-                        <div className='flex justify-center h-48 w-48'>
+                    <div className='flex flex-col text-center items-center justify-around h-72 w-72 p-1 bg-white rounded-lg hover:bg-gradient-to-r from-emerald-100  via-fuchsia-300 to-pink-100 hover:border-brown-50 hover:border-4'>
+                        <div className='flex justify-center h-48 w-48 rounded-full'>
                             <img src='/images/terapia-de-casal.jpeg' width={"300px"} height={"300px"} className='rounded-full hover:border-brown-50 hover:border-4' />
                         </div>
                         <div className='text-xl text-gray-700'>
                             Terapia de Casal
                         </div>
                     </div>
-                    <div className='flex flex-col h-72 text-center items-center justify-around w-72 p-1 bg-white rounded-lg hover:bg-gradient-to-r from-emerald-100  via-fuchsia-300 hover:border-brown-50 hover:border-4'>
-                        <div className='flex justify-center h-48 w-48'>
+                    <div className='flex flex-col text-center items-center justify-around h-72 w-72 p-1 bg-white rounded-lg hover:bg-gradient-to-r from-emerald-100  via-fuchsia-300 to-pink-100 hover:border-brown-50 hover:border-4'>
+                        <div className='flex justify-center h-48 w-48 rounded-full'>
                             <img src='/images/terapia-infantil.jpeg' width={"300px"} height={"300px"} className='rounded-full hover:border-brown-50 hover:border-4' />
                         </div>
                         <div className='text-xl text-gray-700'>
@@ -40,24 +40,24 @@ const Section3 = () => {
             </div>
             <div className='flex flex-col items-center justify-center h-fit gap-2 max-[940px]:h-fit'>
                 <div className='flex items-center justify-center h-fit gap-2 max-[940px]:grid max-[940px]:grid-cols-1 max-[940px]:h-fit'>
-                    <div className='flex flex-col h-72 text-center items-center justify-around w-72 p-1 bg-white rounded-lg hover:bg-gradient-to-r from-emerald-100  via-fuchsia-300 hover:border-brown-50 hover:border-4'>
-                        <div className='flex justify-center h-48 w-48'>
+                <div className='flex flex-col text-center items-center justify-around h-72 w-72 p-1 bg-white rounded-lg hover:bg-gradient-to-r from-emerald-100  via-fuchsia-300 to-pink-100 hover:border-brown-50 hover:border-4'>
+                        <div className='flex justify-center h-48 w-48 rounded-full'>
                             <img src='/images/consultoria-empresarial.jpeg' width={"300px"} height={"300px"} className='rounded-full hover:border-brown-50 hover:border-4' />
                         </div>
                         <div className='text-xl text-gray-700'>
                             Consultoria Empresarial
                         </div>
                     </div>
-                    <div className='flex flex-col h-72 text-center items-center justify-around w-72 p-1 bg-white rounded-lg hover:bg-gradient-to-r from-emerald-100  via-fuchsia-300 hover:border-brown-50 hover:border-4'>
-                        <div className='flex justify-center h-48 w-48'>
+                    <div className='flex flex-col text-center items-center justify-around h-72 w-72 p-1 bg-white rounded-lg hover:bg-gradient-to-r from-emerald-100  via-fuchsia-300 to-pink-100 hover:border-brown-50 hover:border-4'>
+                        <div className='flex justify-center h-48 w-48 rounded-full'>
                             <img src='/images/terapia-online.jpeg' width={"300px"} height={"300px"} className='rounded-full hover:border-brown-50 hover:border-4' />
                         </div>
                         <div className='text-xl text-gray-700'>
                             Terapia Online
                         </div>
                     </div>
-                    <div className='flex flex-col h-72 text-center items-center justify-around w-72 p-1 bg-white rounded-lg hover:bg-gradient-to-r from-emerald-100  via-fuchsia-300 hover:border-brown-50 hover:border-4'>
-                        <div className='flex justify-center h-48 w-48'>
+                    <div className='flex flex-col text-center items-center justify-around h-72 w-72 p-1 bg-white rounded-lg hover:bg-gradient-to-r from-emerald-100  via-fuchsia-300 to-pink-100 hover:border-brown-50 hover:border-4'>
+                        <div className='flex justify-center h-48 w-48 rounded-full'>
                             <img src='/images/aconselhamento-familiar.jpeg' width={"300px"} height={"300px"} className='rounded-full hover:border-brown-50 hover:border-4' />
                         </div>
                         <div className='text-xl text-gray-700'>

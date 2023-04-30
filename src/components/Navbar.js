@@ -14,8 +14,6 @@ const Navbar = () => {
     }
   }
 
-  console.log(isMenuOpen)
-
   return (
     <div>
       <div className='flex flex-col min-[941px]:hidden'>
