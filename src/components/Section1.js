@@ -18,8 +18,8 @@ const Section1 = () => {
           CRP 06/118188
         </div>
         <hr className='w-64 h-1 my-8 border-0 rounded dark:bg-gray-700'></hr>
-        <div className='italic text-gray-700 text-lg'>
-          Autoconhecimento / Autoconfiança / Autoaceitação
+        <div className='italic text-gray-700 text-lg max-[390px]:text-sm'>
+          Autoconhecimento | Autoconfiança | Autoaceitação
         </div>
         <hr className='w-64 h-1 my-8 border-0 rounded dark:bg-gray-700'></hr>
         <div className='flex justify-around w-full gap-x-5 max-[940px]:mb-10 max-[940px]:flex-col items-center gap-y-2'>
