@@ -5,7 +5,7 @@ const Section1 = () => {
   return (
     <div id='section1' className='flex h-[42rem bg-gradient-to-r from-emerald-100  via-fuchsia-300 to-pink-100 justify-center items-center gap-x-20 max-xl:justify-center max-[940px]:flex-col max-[940px]:h-fit'>
       <div className='max-[940px]:mt-10'>
-        <img src='/images/juliana1.jpeg' alt='' className='h-[40rem]' />
+        <img src='/images/juliana2.jpeg' alt='' width={'300px'} className='mt-6 mb-6' />
       </div>
       <div className='flex flex-col items-center'>
         <div className='text-[40px] text-gray-700'>

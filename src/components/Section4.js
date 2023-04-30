@@ -5,7 +5,7 @@ const Section4 = () => {
         <div id='section4' className='flex justify-center bg-white h-fit max-[940px]:flex-col items-center'>
             <div className='flex items-center mt-10'>
                 <div>
-                    <img src='/images/juliana.jpeg' alt='' width={"300px"} height={"300px"} />
+                    <img src='/images/juliana1.jpeg' alt='' width={"300px"} className='mb-6' />
                 </div>
             </div>
             <div className='flex w-1/2 justify-center gap-x-16 p-10'>
