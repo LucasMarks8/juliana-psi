@@ -35,7 +35,8 @@ const Section4 = () => {
                             Com foco e comprometimento ético, busco de forma singular garantir que a saúde mental de meus pacientes esteja em equilíbrio, para que eles possam ter um desempenho total de suas capacidades.
                         </div>
                         <div className='text-gray-700'>
-                            Apaixonada por pessoas, busco através do meu trabalho desenvolvê-las para que elas possam se tornar a melhor versão de si mesmas.  </div>
+                            Apaixonada por pessoas, busco através do meu trabalho desenvolvê-las para que elas possam se tornar a melhor versão de si mesmas.
+                        </div>
                     </div>
                 </div>
             </div>
