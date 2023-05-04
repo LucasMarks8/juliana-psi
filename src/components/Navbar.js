@@ -22,20 +22,20 @@ const Navbar = () => {
         </button>
         {isMenuOpen && (
           <div className='flex flex-col gap-y-2 min-[320px]:text-center mb-5'>
-            <Link href='#section1' className='text-white'>HOME</Link>
-            <Link href='#section2' className='text-white'>POR QUE?</Link>
-            <Link href='#Section3' className='text-white'>ÁREAS DE ATUAÇÃO</Link>
-            <Link href='#section4' className='text-white'>QUEM SOU</Link>
-            <Link href='#section5' className='text-white'>CONTATO</Link>
+            <Link href='#section1'>HOME</Link>
+            <Link href='#section2'>POR QUE?</Link>
+            <Link href='#Section3'>ÁREAS DE ATUAÇÃO</Link>
+            <Link href='#section4'>QUEM SOU</Link>
+            <Link href='#section5'>CONTATO</Link>
           </div>
         )}
       </div>
       <div className='flex justify-around h-10 items-center min-[320px]:text-center max-[940px]:hidden'>
-        <Link href='#section1' className='text-white'>HOME</Link>
-        <Link href='#section2' className='text-white'>POR QUE?</Link>
-        <Link href='#Section3' className='text-white'>ÁREAS DE ATUAÇÃO</Link>
-        <Link href='#section4' className='text-white'>QUEM SOU</Link>
-        <Link href='#section5' className='text-white'>CONTATO</Link>
+        <Link href='#section1'>HOME</Link>
+        <Link href='#section2'>POR QUE?</Link>
+        <Link href='#Section3'>ÁREAS DE ATUAÇÃO</Link>
+        <Link href='#section4'>QUEM SOU</Link>
+        <Link href='#section5'>CONTATO</Link>
       </div>
     </div>
   )

@@ -3,7 +3,7 @@ import Navbar from './Navbar'
 
 const Header = () => {
   return (
-    <div className='bg-gradient-to-r from-indigo-500 via-purple-500 to-pink-500'>
+    <div className='fixed w-full bg-gray-50'>
         <Navbar />
     </div>
   )
