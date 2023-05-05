@@ -21,16 +21,16 @@ const Navbar = () => {
           <Image src={MenuIcon} width={25} alt='' />
         </button>
         {isMenuOpen && (
-          <div className='flex flex-col gap-y-2 min-[320px]:text-center mb-5'>
-            <Link href='#section1'>HOME</Link>
-            <Link href='#section2'>POR QUE?</Link>
-            <Link href='#Section3'>ÁREAS DE ATUAÇÃO</Link>
-            <Link href='#section4'>QUEM SOU</Link>
-            <Link href='#section5'>CONTATO</Link>
+          <div className='flex flex-col gap-y-2 min-[320px]:text-center mb-5 font-serif'>
+            <Link href='#section1' onClick={setMenu}>HOME</Link>
+            <Link href='#section2' onClick={setMenu}>POR QUE?</Link>
+            <Link href='#Section3' onClick={setMenu}>ÁREAS DE ATUAÇÃO</Link>
+            <Link href='#section4' onClick={setMenu}>QUEM SOU</Link>
+            <Link href='#section5' onClick={setMenu}>CONTATO</Link>
           </div>
         )}
       </div>
-      <div className='flex justify-around h-10 items-center min-[320px]:text-center max-[940px]:hidden'>
+      <div className='flex justify-around h-10 items-center min-[320px]:text-center max-[940px]:hidden font-serif'>
         <Link href='#section1'>HOME</Link>
         <Link href='#section2'>POR QUE?</Link>
         <Link href='#Section3'>ÁREAS DE ATUAÇÃO</Link>

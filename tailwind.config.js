@@ -8,12 +8,6 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        red: {
-          50: '#D30000'
-        },
-        pink: {
-          50: '#ED9FCF'
-        },
         gray: {
           50: '#A9A9A9'
         },
@@ -21,12 +15,9 @@ module.exports = {
           50: '#94CDD3',
           100: '#4B5563'
         },
-        ivory: {
-          50: '#F4E7E7'
-        },
-        brown: {
-          50: '#C3B9B9'
-        }     
+        emerald: {
+          50: '#2CA880'
+        }   
       },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
